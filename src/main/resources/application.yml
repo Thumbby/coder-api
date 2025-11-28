@@ -13,7 +13,7 @@ spring:
 
 coder:
   cli:
-    node-directory: node
-    cli-directory: C:\Users\Thumbby\AppData\Roaming\npm\node_modules\@qwen-code\qwen-code\cli.js
-    working-directory: E:\yst-sdk-parent\yst-sdk-parent\ystpay-java-sdk-sample\src\main\java\com\allinpay\ystpay\sample\v1\trans
+    node-directory: your-node-directory
+    cli-directory: your-cli-config-file-directory
+    working-directory: you-working-directory
 
