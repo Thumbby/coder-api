@@ -18,9 +18,9 @@ import java.util.UUID;
 
 @RestController
 @RequestMapping("/api/coder")
-public class TAiCoderController {
+public class CoderApiController {
 
-    private static final Logger logger = LoggerFactory.getLogger(TAiCoderController.class);
+    private static final Logger logger = LoggerFactory.getLogger(CoderApiController.class);
 
     @Autowired
     private CoderConfig coderConfig;
