@@ -1,0 +1,19 @@
+server:
+  port: 8080
+  servlet:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+    context-path: /
+
+spring:
+  application:
+    name: coder-api
+
+coder:
+  cli:
+    node-directory: node
+    cli-directory: C:\Users\Thumbby\AppData\Roaming\npm\node_modules\@qwen-code\qwen-code\cli.js
+    working-directory: E:\yst-sdk-parent\yst-sdk-parent\ystpay-java-sdk-sample\src\main\java\com\allinpay\ystpay\sample\v1\trans
+

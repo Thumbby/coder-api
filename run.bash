@@ -1,0 +1,1 @@
+java -jar ../__OUT__/coder-api-1.0.0.jar
